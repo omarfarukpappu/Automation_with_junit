@@ -38,7 +38,7 @@ public class AutomateWebform {
         Thread.sleep(3000);
         formElement.get(3).sendKeys("faruq@gmail.com"); //email
         formElement.get(4).sendKeys("I am a SQA Engineer in genex infosys limited"); //textbox
-        driver.findElement(By.id("edit-uploadocument-upload")).sendKeys(System.getProperty("user.dir")+"/src/test/resources/images.jpg"); //upload document or image
+        driver.findElement(By.id("edit-uploadocument-upload")).sendKeys(System.getProperty("user.dir")+"/src/test/resources/faruq cv pic.jpg"); //upload document or image
         Thread.sleep(10000);
         driver.findElement(By.xpath("//input[@id='edit-age']")).click(); //checkbox
         driver.findElement(By.id("edit-submit")).click(); //submit button
