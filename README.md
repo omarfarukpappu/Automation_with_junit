@@ -15,7 +15,8 @@
 - Give the following command gradle clean Test
 
 ## Automation Report
-![WebformAutomationReport](https://github.com/Moonmoon838/demo-transaction-api-jmeter/assets/143262452/9b53fa1c-7498-4195-86d4-65bb98938bc9)
+![image](https://github.com/omarfarukpappu/Automation_with_junit/assets/124276661/806c63b3-9564-41a9-a42b-430c479e8893)
+
 
 ## Automation Video
-https://github.com/Moonmoon838/demo-transaction-api-jmeter/assets/143262452/638e0c61-45b6-4a35-bdef-f9e69c5c68f4
+https://github.com/omarfarukpappu/Automation_with_junit/assets/124276661/1e0eece3-0bf9-4b55-8ff4-8a5db1cc3453
